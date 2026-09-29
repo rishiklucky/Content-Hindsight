@@ -5,3 +5,6 @@ dist/
 .DS_Store
 backend/data/
 frontend/dist/
+
+article.md
+CHECKPOINT.md
